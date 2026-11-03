@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="Pastel Sukhothai school garden background">
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#c7ecff"/><stop offset=".58" stop-color="#edf8ff"/><stop offset="1" stop-color="#fff3df"/></linearGradient>
+<linearGradient id="field" x2="0" y2="1"><stop stop-color="#d8efd5"/><stop offset="1" stop-color="#a8d8b6"/></linearGradient>
+<pattern id="dots" width="36" height="36" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.7" fill="#fff" opacity=".52"/></pattern>
+</defs>
+<rect width="1600" height="900" fill="url(#sky)"/><rect width="1600" height="900" fill="url(#dots)"/>
+<circle cx="1400" cy="140" r="108" fill="#fff4b7" opacity=".48"/>
+<g fill="#fff" opacity=".73"><ellipse cx="190" cy="145" rx="130" ry="39"/><ellipse cx="245" cy="116" rx="78" ry="49"/><ellipse cx="1118" cy="125" rx="126" ry="35"/><ellipse cx="1190" cy="105" rx="65" ry="40"/><ellipse cx="1020" cy="189" rx="92" ry="25"/></g>
+<g opacity=".23" fill="#93b6da"><path d="M0 600L150 505 310 605 470 485 650 625 870 520 1070 625 1260 470 1440 585 1600 520V900H0Z"/></g>
+<g opacity=".19" stroke="#81b4c0" stroke-width="10" fill="#fff"><path d="M1120 480v-140h-44v-35h122v35h-44v140z"/><path d="M1275 480V285h-26v-36h81v36h-26v195"/><path d="M1050 355l48-75 48 75z"/><path d="M1222 280l53-92 53 92z"/></g>
+<path d="M0 665Q400 610 790 665T1600 620V900H0Z" fill="url(#field)" opacity=".71"/>
+<path d="M0 741Q330 676 735 755T1600 693V900H0Z" fill="#b7e7d6" opacity=".43"/>
+<g opacity=".35" stroke="#528a78" stroke-width="9" fill="none"><path d="M132 810V460"/><path d="M1475 820V410"/></g>
+<g fill="#70b997" opacity=".32"><ellipse cx="128" cy="438" rx="95" ry="70"/><ellipse cx="75" cy="476" rx="80" ry="55"/><ellipse cx="192" cy="486" rx="70" ry="50"/><ellipse cx="1478" cy="399" rx="105" ry="75"/><ellipse cx="1413" cy="443" rx="81" ry="55"/><ellipse cx="1550" cy="450" rx="100" ry="65"/></g>
+<g opacity=".65"><path d="M1360 720Q1430 620 1500 720Q1435 759 1360 720" fill="#f6adce"/><path d="M1403 707Q1435 647 1465 707Q1438 725 1403 707" fill="#fff1f7"/><circle cx="1432" cy="711" r="11" fill="#ffda83"/><path d="M77 790Q143 685 211 790Q143 831 77 790" fill="#f8c0d7"/><path d="M116 775Q146 713 180 775Q149 796 116 775" fill="#fff4f8"/><circle cx="147" cy="777" r="10" fill="#ffe59f"/></g>
+<g fill="#fff" opacity=".5"><circle cx="700" cy="155" r="7"/><circle cx="775" cy="90" r="5"/><circle cx="1000" cy="280" r="9"/><circle cx="350" cy="340" r="5"/></g>
+</svg>
